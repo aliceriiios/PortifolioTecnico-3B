@@ -9,3 +9,9 @@ Pretendo seguir carreira em Arquitetura e Urbanismo, é uma area que gosto muito
 Tenho o sonho de ter meu proprio negocio, fazer muitas viagens e conquistar muitas coisas no futuro;
 
 Sou uma pessoa muito ativa, procuro sempre estar conhecedo novas coisas;
+
+LINK 1 https://github.com/aliceriiios/PortifolioTecnico-3B/tree/main/banc_dados
+
+LINK 2 
+
+LINK 3 
