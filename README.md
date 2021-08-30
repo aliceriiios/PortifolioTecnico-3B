@@ -12,6 +12,6 @@ Sou uma pessoa muito ativa, procuro sempre estar conhecedo novas coisas;
 
 LINK 1 https://github.com/aliceriiios/PortifolioTecnico-3B/tree/main/banc_dados
 
-LINK 2 
+LINK 2 https://github.com/aliceriiios/PortifolioTecnico-3B/tree/main/desen_sistemas/CassinoElChapo
 
-LINK 3 
+LINK 3 https://github.com/aliceriiios/PortifolioTecnico-3B/tree/main/prog_app/estatistica2
